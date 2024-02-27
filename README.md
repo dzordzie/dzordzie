@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzordzie&label=Profile%20views&color=0e75b6&style=flat" alt="dzordzie" /> </p>
 
-- 🔭 I’m currently working on **The Odin Project**
 
-- 🌱 I’m currently learning **JavaScript, React.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/dzordzie](https://github.com/dzordzie)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
